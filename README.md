@@ -1,4 +1,4 @@
-Git commands for new projects
+This project includes a new profile feature.
 Empty GitHub repository
 
         ↓
